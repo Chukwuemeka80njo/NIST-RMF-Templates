@@ -1,12 +1,3 @@
-Here is your **Security Assessment & Authorization Policy** in **Format A** (clean, structured, RMF-ready).
-Use this filename:
-
-```text
-security_assessment_and_authorization_policy.md
-```
-
----
-
 # **SECURITY ASSESSMENT & AUTHORIZATION POLICY**
 
 Version: 1.0
