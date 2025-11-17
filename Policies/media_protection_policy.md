@@ -1,9 +1,3 @@
-Great — continuing with the next missing RMF policy.
-
-# 📄 **Media Protection Policy (MP)**
-
-Create a new file in your **Policies** folder named:
-
 ```
 media_protection_policy.md
 ```
