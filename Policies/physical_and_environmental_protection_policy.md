@@ -1,17 +1,3 @@
-Perfect — here is the next required RMF policy.
-
-# 📄 **Physical and Environmental Protection Policy (PE)**
-
-Create a new file in your **Policies** folder named:
-
-```
-physical_and_environmental_protection_policy.md
-```
-
-Then paste the following content:
-
----
-
 # **Physical and Environmental Protection Policy**
 
 **Version:** 1.0
