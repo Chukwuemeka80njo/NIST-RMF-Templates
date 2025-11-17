@@ -1,8 +1,4 @@
-Here is your **Program Management Policy** in **Format A** — ready to paste directly into GitHub as a `.md` file.
-
----
-
-# 📄 **PROGRAM MANAGEMENT POLICY**
+**PROGRAM MANAGEMENT POLICY**
 
 **Version:** 1.0
 **Approval Date:** (insert date)
