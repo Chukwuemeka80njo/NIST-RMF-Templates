@@ -1,12 +1,3 @@
-Here is your **Planning Policy** in **Format A** (clean, structured, RMF-ready).
-Use this filename:
-
-```text
-planning_policy.md
-```
-
----
-
 # **PLANNING POLICY**
 
 Version: 1.0
