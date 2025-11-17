@@ -1,4 +1,4 @@
-# 📄 **1. Access Control Policy (ACP)**
+**1. Access Control Policy (ACP)**
 
 **File Name:**
 `Policies/access_control_policy.md`
