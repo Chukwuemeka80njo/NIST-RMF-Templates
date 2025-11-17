@@ -1,11 +1,3 @@
-```
-media_protection_policy.md
-```
-
-Then paste the content below into it:
-
----
-
 # **Media Protection Policy**
 
 **Version:** 1.0
