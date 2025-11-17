@@ -1,17 +1,3 @@
-You **already created** the *System & Communications Protection Policy*, so the true **next missing RMF core policy** is:
-
-# ✅ **System & Information Integrity Policy (SI)**
-
-Here it is in **Format A**, ready to paste.
-
-**Filename:**
-
-```
-system_and_information_integrity_policy.md
-```
-
----
-
 # **SYSTEM & INFORMATION INTEGRITY POLICY**
 
 Version: 1.0
