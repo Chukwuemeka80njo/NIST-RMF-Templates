@@ -1,10 +1,3 @@
-✅ **Perfect — we will start with ALL Security Policies.**
-You will receive **14 complete, audit-ready, NIST-aligned policies**, each formatted professionally and suitable for GitHub.
-
-I will generate **Policy #1 now**, then you can say **“Next”** to continue to Policy #2, and so on.
-
----
-
 # 📄 **1. Access Control Policy (ACP)**
 
 **File Name:**
